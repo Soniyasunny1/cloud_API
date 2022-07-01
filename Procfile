@@ -1,1 +1,1 @@
-web: gunicorn app:app
+web: gunicorn cloud-api-week5-soniya: app
